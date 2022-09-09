@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/chevy_T_bg.png</file>
+        <file>assets/Hex Pattern.png</file>
+        <file>assets/Hex Pattern1.png</file>
+        <file>assets/Ice Empty-BG.png</file>
+        <file>assets/Ice Full.png</file>
+        <file>assets/Ice Pattern.png</file>
+        <file>assets/ICE.png</file>
+        <file>assets/Needle Dot copy.png</file>
+        <file>assets/Needle Dot.png</file>
+        <file>assets/Needle Dot_ copy.png</file>
+        <file>assets/Needle Dot_.png</file>
+        <file>assets/Needle Dot_notrans.png</file>
+        <file>assets/Needle Dot_original.png</file>
+        <file>assets/Needle Dot1.png</file>
+        <file>assets/Needle_BelowEffect_1.png</file>
+        <file>assets/Needle_BelowEffect_100.png</file>
+        <file>assets/Needle_bloweffect_75.png</file>
+        <file>assets/Needle_Dot_Invisible_Halo_10-02-2021.png</file>
+        <file>assets/Needle_Dot_White_Halo_10-02-2021.png</file>
+        <file>assets/side_gauge_needle_fuel_red.png</file>
+        <file>assets/bg_black.png</file>
+    </qresource>
+</RCC>
